@@ -1,0 +1,10 @@
+com\example\soap\ws\loaneligibility\ObjectFactory.class
+com\example\soap\ws\Service\LoanEligibilityService.class
+com\example\soap\ws\SpringBootSoapWsApplication.class
+com\example\soap\ws\Config\package-info.class
+com\example\soap\ws\loaneligibility\CustomerRequest.class
+com\example\soap\ws\Config\SoapWSConfig.class
+com\example\soap\ws\Service\package-info.class
+com\example\soap\ws\Endpoint\LoanEligibilityIndicatorEndpoint.class
+com\example\soap\ws\loaneligibility\package-info.class
+com\example\soap\ws\loaneligibility\Acknowledgement.class
